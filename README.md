@@ -36,6 +36,20 @@ Também me interesso por *programação de jogos 🎮*, unindo lógica, criativi
 Continuar evoluindo como desenvolvedor, criando projetos que unam *tecnologia, criatividade e impacto real*.  
 Busco sempre aprender algo novo e contribuir para a comunidade de programação. 🚀  
 
+## 🌎 Conecte-se comigo!
+<div align="center">
+  <a href="https://www.linkedin.com/in/davi-braga-grah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/grah_hz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:davi.grah@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+
 ---
 
  🏆 Conquistas & Estatísticas
