@@ -71,8 +71,5 @@ Busco sempre aprender algo novo e contribuir para a comunidade de programação.
 | [AppTicketCantina](https://github.com/CCesar-c/AppTicketCatina) | App de comida | React, CSS |
 | [jogo-style-space-invaders](https://github.com/davi-braga-grah/jogo-style-space-invaders) | Jogo em JavaScript puro 🐍 | HTML, CSS, JS |
 
-
-<img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="300"/>
-
 <!-- Rodapé animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00bfff&height=120&section=footer"/>
