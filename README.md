@@ -68,7 +68,7 @@ Busco sempre aprender algo novo e contribuir para a comunidade de programação.
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-braga-grah&layout=compact&theme=dracula)
 
 
-# 💼 Meus Projetos
+# 💼 *Principais Projetos*
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
