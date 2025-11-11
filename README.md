@@ -3,7 +3,7 @@
 
  👋 Olá! Bem-vindo ao meu GitHub! 💻  
  
-🎵 [Ouça o som de fundo do meu perfil!](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
+🎵 [Ouça o som de fundo do meu perfil! ⬅️](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
 ---
 <img src="https://i.imgur.com/jskvOW0.gif" width="500"/>
 
