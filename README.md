@@ -3,10 +3,6 @@
  👋 Olá! Bem-vindo ao meu GitHub! 💻  
  
 🎵 [Ouça o som de fundo do meu perfil!](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
-
-  <h1>🎮 Davi Grah 👨‍💻</h1>
-  <p>Desenvolvedor Web e criador de aplicativos em JavaScript.  
-     Apaixonado por tecnologia, programação e games!</p>
 ---
 
  🚀 Desenvolvedor Web & Criador de Aplicativos 📱  
