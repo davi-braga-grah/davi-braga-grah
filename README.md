@@ -62,5 +62,13 @@ Busco sempre aprender algo novo e contribuir para a comunidade de programação.
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-braga-grah&layout=compact&theme=dracula)
 
+
+# 💼 Meus Projetos
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|-------------|
+| [App To-Do List](https://github.com/davi-braga-grah/todo-app) | Gerenciador de tarefas com React | React, CSS |
+| [Jogo da Cobrinha](https://github.com/davi-braga-grah/snake-game) | Jogo em JavaScript puro 🐍 | HTML, CSS, JS |
+
 <!-- Rodapé animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00bfff&height=120&section=footer"/>
