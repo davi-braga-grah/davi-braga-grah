@@ -4,7 +4,7 @@
  
 🎵 [Ouça o som de fundo do meu perfil!](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
 ---
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
  🚀 Desenvolvedor Web & Criador de Aplicativos 📱  
 
@@ -70,6 +70,7 @@ Busco sempre aprender algo novo e contribuir para a comunidade de programação.
 |----------|------------|-------------|
 | [AppTicketCantina](https://github.com/CCesar-c/AppTicketCatina) | App de comida | React, CSS |
 | [jogo-style-space-invaders](https://github.com/davi-braga-grah/jogo-style-space-invaders) | Jogo em JavaScript puro 🐍 | HTML, CSS, JS |
+ <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="300"/> <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="300"/>
 
 <!-- Rodapé animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00bfff&height=120&section=footer"/>
