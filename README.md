@@ -3,7 +3,6 @@
  👋 Olá! Bem-vindo ao meu GitHub! 💻  
  
 🎵 [Ouça o som de fundo do meu perfil!](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
-<iframe width="916" height="515" src="https://www.youtube.com/embed/wAukvwLCVbM?list=RDwAukvwLCVbM" title="LAKEY INSPIRED - Blue Boi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
  🚀 Desenvolvedor Web & Criador de Aplicativos 📱  
