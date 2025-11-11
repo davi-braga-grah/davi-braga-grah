@@ -1,11 +1,12 @@
 <!-- Banner topo -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:8a2be2&height=180&section=header&text=Davi%20Grah%20👅&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+
  👋 Olá! Bem-vindo ao meu GitHub! 💻  
  
 🎵 [Ouça o som de fundo do meu perfil!](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
 ---
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2Fllenn-drinking-some-tea-fKME2Jy&psig=AOvVaw25Pq79NPCOvpFjtkXvy-Xh&ust=1762975505616000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjZ7dfp6pADFQAAAAAdAAAAABAK" width="400"/>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
  🚀 Desenvolvedor Web & Criador de Aplicativos 📱  
 
 Sou um *Desenvolvedor em formação* que ama tecnologia e transformar ideias em *sites e aplicativos interativos* usando *JavaScript*!  
