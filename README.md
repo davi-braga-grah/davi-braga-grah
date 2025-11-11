@@ -1,7 +1,7 @@
 <!-- Banner topo -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:8a2be2&height=180&section=header&text=Davi%20Grah%20👅&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
- *👋 Olá! Bem-vindo ao meu mundo no Github! 💻  *
+ 👋 Olá! Bem-vindo ao meu mundo no Github! 💻 
  
 🎵 [Ouça o som de fundo do meu perfil! ⬅️](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
 ---
@@ -19,7 +19,7 @@ Também me interesso por *programação de jogos 🎮*, unindo lógica, criativi
 
 ---
 
-* 🌐 Tecnologias que utilizo*
+🌐 Tecnologias que utilizo
 - 🧩 *JavaScript / React / React Native*
 - 🎨 *HTML / CSS*                          
 - ⚙️ *Node.js / APIs REST*
@@ -59,7 +59,7 @@ Busco sempre aprender algo novo e contribuir para a comunidade de programação.
 
 ---
 
-* 🏆 Conquistas & Estatísticas ⬇️⬇️*
+ 🏆 Conquistas & Estatísticas ⬇️⬇️
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=davi-braga-grah&theme=dracula&no-frame=true&margin-w=15)
 
