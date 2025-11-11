@@ -5,8 +5,7 @@
  
 🎵 [Ouça o som de fundo do meu perfil!](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
 ---
-<img src="https://i.imgur.com/jskvOW0.gif" width="400"/>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> <img src="https://i.imgur.com/jskvOW0.gif" width="400"/>
  🚀 Desenvolvedor Web & Criador de Aplicativos 📱  
 
 Sou um *Desenvolvedor em formação* que ama tecnologia e transformar ideias em *sites e aplicativos interativos* usando *JavaScript*!  
