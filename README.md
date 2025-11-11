@@ -3,6 +3,9 @@
  👋 Olá! Bem-vindo ao meu GitHub! 💻  
  
 🎵 [Ouça o som de fundo do meu perfil!](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
+<audio autoplay loop>
+  <source src=""C:\Users\Davi_Grah\Downloads\WhatsApp Audio 2025-11-11 at 14.59.01.mp4"" type="audio/mp4">
+</audio>
 ---
 
  🚀 Desenvolvedor Web & Criador de Aplicativos 📱  
