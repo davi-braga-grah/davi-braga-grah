@@ -5,7 +5,7 @@
  
 🎵 [Ouça o som de fundo do meu perfil!](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
 ---
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="375"/> <img src="https://i.imgur.com/jskvOW0.gif" width="500"/>
+<img src="https://i.imgur.com/jskvOW0.gif" width="500"/>
 
  🚀 Desenvolvedor Web & Criador de Aplicativos 📱  
 
@@ -58,6 +58,8 @@ Busco sempre aprender algo novo e contribuir para a comunidade de programação.
 ---
 
  🏆 Conquistas & Estatísticas
+
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="375"/> 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=davi-braga-grah&theme=dracula&no-frame=true&margin-w=15)
 
