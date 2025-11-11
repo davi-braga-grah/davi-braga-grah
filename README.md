@@ -57,7 +57,7 @@ Busco sempre aprender algo novo e contribuir para a comunidade de programação.
 
 ---
 
- 🏆 Conquistas & Estatísticas
+ 🏆 Conquistas & Estatísticas ⬇️⬇️
 
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="375"/> 
 
