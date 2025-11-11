@@ -15,6 +15,7 @@ Atualmente sou aluno do SENAI Palhoça, onde venho melhorando minhas habilidades
 💡 Gosto de criar *interfaces modernas, dinâmicas e responsivas*, sempre pensando na melhor experiência para o usuário.  
 Também me interesso por *programação de jogos 🎮*, unindo lógica, criatividade e diversão — afinal, além de programar, *adoro jogar! 🕹️*
 
+💡Gosto de ler livros como os *Mangas e livros de anime* sendo o meu favorito *Sword art online! 📖*
 ---
 
  🌐 Tecnologias que utilizo
