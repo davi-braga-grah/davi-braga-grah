@@ -35,3 +35,6 @@ Busco sempre aprender algo novo e contribuir para a comunidade de programação.
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=davi-braga-grah&show_icons=true&theme=dracula)
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-braga-grah&layout=compact&theme=dracula)
+
+<!-- Rodapé animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00bfff&height=120&section=footer"/>
