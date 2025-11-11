@@ -7,7 +7,6 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400"/>
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300"/>
 
 
  🚀 Desenvolvedor Web & Criador de Aplicativos 📱  
