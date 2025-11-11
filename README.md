@@ -3,60 +3,6 @@
  👋 Olá! Bem-vindo ao meu GitHub! 💻  
  
 🎵 [Ouça o som de fundo do meu perfil!](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Davi Grah | Portfólio</title>
-  <style>
-    body {
-      font-family: "Poppins", sans-serif;
-      background: linear-gradient(135deg, #0a0a0f, #1a1a2e);
-      color: #fff;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      text-align: center;
-      margin: 0;
-    }
-
-    h1 {
-      font-size: 2.5rem;
-      margin-bottom: 10px;
-    }
-
-    p {
-      color: #ccc;
-      max-width: 600px;
-      margin-bottom: 20px;
-    }
-
-    button {
-      background-color: #00bfff;
-      color: white;
-      border: none;
-      padding: 12px 24px;
-      border-radius: 12px;
-      cursor: pointer;
-      font-size: 1rem;
-      font-weight: bold;
-      transition: 0.3s;
-    }
-
-    button:hover {
-      background-color: #0088cc;
-    }
-
-    .icon {
-      font-size: 2rem;
-      margin-right: 10px;
-    }
-  </style>
-</head>
-<body>
 
   <h1>🎮 Davi Grah 👨‍💻</h1>
   <p>Desenvolvedor Web e criador de aplicativos em JavaScript.  
