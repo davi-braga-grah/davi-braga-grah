@@ -67,7 +67,7 @@ Busco sempre aprender algo novo e contribuir para a comunidade de programação.
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
-| [AppTicketCantina](https://github.com/davi-braga-grah/AppTicketCantina) | Gerenciador de tarefas com React | React, CSS |
+| [AppTicketCantina](https://github.com/CCesar_c#/AppTicketCatina) | App de comida | React, CSS |
 | [jogo-style-space-invaders](https://github.com/davi-braga-grah/jogo-style-space-invaders) | Jogo em JavaScript puro 🐍 | HTML, CSS, JS |
 
 <!-- Rodapé animado -->
