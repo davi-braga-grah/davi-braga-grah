@@ -1,6 +1,5 @@
 <!-- Banner topo -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4169E1,8A2BE2&height=180&section=header&text=Davi%20Grah%20👅&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad,8a2be2&height=180&section=header&text=Davi%20Grah%20👅&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
  👋 Olá! Bem-vindo ao meu GitHub! 💻  
  
 🎵 [Ouça o som de fundo do meu perfil!](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
