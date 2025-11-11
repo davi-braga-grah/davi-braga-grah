@@ -4,6 +4,7 @@
  
 🎵 [Ouça o som de fundo do meu perfil!](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
 ---
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
  🚀 Desenvolvedor Web & Criador de Aplicativos 📱  
 
