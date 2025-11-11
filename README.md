@@ -18,7 +18,7 @@ Também me interesso por *programação de jogos 🎮*, unindo lógica, criativi
 
  🌐 Tecnologias que utilizo
 - 🧩 *JavaScript / React / React Native*
-- 🎨 *HTML / CSS*                             <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+- 🎨 *HTML / CSS*                          
 - ⚙️ *Node.js / APIs REST*
 - 🧠 *Versionamento com Git & GitHub*
 
@@ -37,6 +37,7 @@ Também me interesso por *programação de jogos 🎮*, unindo lógica, criativi
  🎯 Objetivo
 Continuar evoluindo como desenvolvedor, criando projetos que unam *tecnologia, criatividade e impacto real*.  
 Busco sempre aprender algo novo e contribuir para a comunidade de programação. 🚀  
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 
 ## 🌎 Conecte-se comigo!
 <div align="center">
