@@ -16,6 +16,7 @@ Atualmente sou aluno do SENAI Palhoça, onde venho melhorando minhas habilidades
 Também me interesso por *programação de jogos 🎮*, unindo lógica, criatividade e diversão — afinal, além de programar, *adoro jogar! 🕹️*
 
 💡Gosto de ler livros como os *Mangas e livros de anime* sendo o meu favorito *Sword art online! 📖*
+
 ---
 
  🌐 Tecnologias que utilizo
