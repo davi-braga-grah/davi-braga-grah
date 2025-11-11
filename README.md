@@ -5,7 +5,7 @@
  
 🎵 [Ouça o som de fundo do meu perfil!](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
 ---
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2Fllenn-drinking-some-tea-fKME2Jy&psig=AOvVaw25Pq79NPCOvpFjtkXvy-Xh&ust=1762975505616000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjZ7dfp6pADFQAAAAAdAAAAABAK" width="400"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2Fllenn-drinking-some-tea-fKME2Jy&psig=AOvVaw25Pq79NPCOvpFjtkXvy-Xh&ust=1762975505616000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjZ7dfp6pADFQAAAAAdAAAAABAK/arquivo.gif" width="400"/>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
  🚀 Desenvolvedor Web & Criador de Aplicativos 📱  
 
