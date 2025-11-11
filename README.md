@@ -59,8 +59,6 @@ Busco sempre aprender algo novo e contribuir para a comunidade de programação.
 
  🏆 Conquistas & Estatísticas ⬇️⬇️
 
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="375"/> 
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=davi-braga-grah&theme=dracula&no-frame=true&margin-w=15)
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=davi-braga-grah&show_icons=true&theme=dracula)
