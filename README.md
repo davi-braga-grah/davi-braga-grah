@@ -3,9 +3,92 @@
  👋 Olá! Bem-vindo ao meu GitHub! 💻  
  
 🎵 [Ouça o som de fundo do meu perfil!](https://www.youtube.com/watch?v=wAukvwLCVbM&list=RDwAukvwLCVbM&start_radio=1)
-<audio autoplay loop>
-  <source src=""C:\Users\Davi_Grah\Downloads\WhatsApp Audio 2025-11-11 at 14.59.01.mp4"" type="audio/mp4">
-</audio>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Davi Grah | Portfólio</title>
+  <style>
+    body {
+      font-family: "Poppins", sans-serif;
+      background: linear-gradient(135deg, #0a0a0f, #1a1a2e);
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+      margin: 0;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+
+    p {
+      color: #ccc;
+      max-width: 600px;
+      margin-bottom: 20px;
+    }
+
+    button {
+      background-color: #00bfff;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 12px;
+      cursor: pointer;
+      font-size: 1rem;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    button:hover {
+      background-color: #0088cc;
+    }
+
+    .icon {
+      font-size: 2rem;
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎮 Davi Grah 👨‍💻</h1>
+  <p>Desenvolvedor Web e criador de aplicativos em JavaScript.  
+     Apaixonado por tecnologia, programação e games!</p>
+
+  <button id="musicBtn">🎵 Tocar Música</button>
+
+  <audio id="bgMusic" loop>
+    <!-- Substitua o link abaixo pelo seu arquivo de música -->
+    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+  </audio>
+
+  <script>
+    const music = document.getElementById('bgMusic');
+    const btn = document.getElementById('musicBtn');
+    let playing = false;
+
+    btn.addEventListener('click', () => {
+      if (!playing) {
+        music.play();
+        btn.textContent = '⏸️ Pausar Música';
+        playing = true;
+      } else {
+        music.pause();
+        btn.textContent = '🎵 Tocar Música';
+        playing = false;
+      }
+    });
+  </script>
+
+</body>
+</html>
 ---
 
  🚀 Desenvolvedor Web & Criador de Aplicativos 📱  
