@@ -44,7 +44,7 @@ Busco sempre aprender algo novo e contribuir para a comunidade de programação.
   <a href="https://www.instagram.com/grah_hz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:davi.grah@gmail.com" target="_blank">
+  <a href="mailto:davigrah2010@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
