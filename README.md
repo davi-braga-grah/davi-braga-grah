@@ -63,7 +63,7 @@ Busco sempre aprender algo novo e contribuir para a comunidade de programação.
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=davi-braga-grah&theme=dracula&no-frame=true&margin-w=15)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-braga-grah&layout=compact&theme=tokyonight&hide_border=true" />
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=davi-braga-grah&show_icons=true&theme=dracula)
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-braga-grah&layout=compact&theme=dracula)
 
