@@ -1,5 +1,5 @@
 <!-- Banner topo -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:8a2be2&height=180&section=header&text=Davi%20Grah%20👅&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:8a2be2&height=180&section=header&text=Davi%20Grah%20&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
  👋 Olá! Bem-vindo ao meu mundo no Github! 💻 
  
